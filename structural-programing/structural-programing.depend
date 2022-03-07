@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643812325 source:/Users/shahidulislam/Documents/Personal/University/Structural-programing/structural-programing/main.c
+	<stdio.h>
+	<stdlib.h>
+
